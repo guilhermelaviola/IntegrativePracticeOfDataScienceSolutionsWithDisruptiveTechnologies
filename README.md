@@ -1,5 +1,5 @@
 # Integrative Practice of Data Science Solutions with Disruptive Technologies
-My school homework from #DescomplicaDigital on Integrative Practice of Data Science Solutions with Disruptive Technologies, which is not a single, formalized term with a universal definition, but a conceptual phrase describing a holistic and systematic approach to combining data science methodologies with innovative, paradigm-shifting technologies like AI, blockchain, IoT, and cloud computing. This integration aims to create new business models, optimize processes, and drive innovation beyond incremental improvements. 
+My school homework from **#DescomplicaDigital** on Integrative Practice of Data Science Solutions with Disruptive Technologies, which is not a single, formalized term with a universal definition, but a conceptual phrase describing a holistic and systematic approach to combining data science methodologies with innovative, paradigm-shifting technologies like AI, blockchain, IoT, and cloud computing. This integration aims to create new business models, optimize processes, and drive innovation beyond incremental improvements. 
 
 ## Contents
 1. Python Fundamentals
